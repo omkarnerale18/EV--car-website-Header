@@ -7,7 +7,7 @@ It does not include responsiveness or working navigation.
 ---
 
 ## 📸 Screenshot
-![EV Car Website Header](./EV-website-header.jpg)
+![EV Car Website Header](./Screenshots/EV-websit-header.jpg)
 
 ---
 
