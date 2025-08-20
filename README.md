@@ -1,12 +1,42 @@
-# React + Vite
+# 🚗 EV-olution – Static Electric Car Website Header
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **static website header design** built with **React** and **Vite**.  
+This project is purely UI-based and showcases a modern electric vehicle landing page header with text, background image, and styled buttons.  
+It does not include responsiveness or working navigation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot
+![EV Car Website Header](./Screenshots/EV-websit-header.jpg)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 🖼️ Static header section with EV car background image  
+- 📝 Large hero text and tagline (e.g., "Dive into What you Love")  
+- 🎨 Clean UI with modern fonts and styling  
+- 🔘 Static buttons (Explore features, See the video)  
+- ⚡ Built with **React + Vite** for fast setup  
+
+---
+
+## 🛠️ Tech Stack
+- **React** – Frontend framework  
+- **Vite** – Build tool  
+- **CSS** – Styling  
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/ev-static-header.git
+   cd ev-static-header
+## Install dependencies and run the development server
+ ```bash
+npm install
+npm run dev
+
+
+
